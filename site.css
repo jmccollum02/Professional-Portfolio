@@ -73,3 +73,11 @@ div.cont{
 	margin: auto;
 	text-align: center;
 }
+div#res{
+	height: 550%;
+	width: 100%;
+}
+iframe{
+	height: 100%;
+	width: 100%;
+}
